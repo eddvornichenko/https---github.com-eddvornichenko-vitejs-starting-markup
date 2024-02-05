@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "scss-reset": "^1.4.2",
     "vite": "^5.0.8"
   },
   "dependencies": {
